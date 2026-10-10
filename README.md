@@ -2,7 +2,7 @@
 
 ![new-api](/web/public/logo.png)
 
-# New API
+# New API_share-token
 
 ### 🎓 课程二次开发版本：Share Token（闲置 API Key 共享与分成系统）
 
