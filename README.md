@@ -4,6 +4,8 @@
 
 # New API
 
+### 🎓 课程二次开发版本：Share Token（闲置 API Key 共享与分成系统）
+
 **连接模型、应用与 Agent 的 AI 网关**
 
 <p align="center">
